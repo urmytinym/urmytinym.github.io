@@ -137,16 +137,16 @@
 
 
 # example navigation
-foo:
-  - title: "Home"
-    url: https://urmytinym.github.io/
-  - title: "Posts"
-    url: /_posts/
-    children:
-      - title: "공부"
-        url: /2023-05-25-github-start.md/
-      - title: "잡담" 
-        url: "2023-05-25-github-start.md"
+# foo:
+#   - title: "Home"
+#     url: https://urmytinym.github.io/
+#   - title: "Posts"
+#     url: /_posts/
+#     children:
+#       - title: "공부"
+#         url: /2023-05-25-github-start.md/
+#       - title: "잡담" 
+#         url: "2023-05-25-github-start.md"
 
 
 # main links
@@ -154,7 +154,7 @@ main:
   - title: "Home"
     url: https://urmytinym.github.io/
   - title: "Posts"
-    url: /_posts/
+    url: /Posts/
   # - title: "Posts"
   #   url: /year-archive/
   # - title: "Pages"
