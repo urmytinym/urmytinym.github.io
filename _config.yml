@@ -23,7 +23,7 @@ name                     : "jin"
 description              : "기록용"
 icon                     : 🐥
 url                      : "https://urmytinym.github.io"
-max_width                : 600px
+max_width                : 100
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "urmytinym/urmytinym.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
