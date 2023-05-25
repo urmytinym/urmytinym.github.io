@@ -166,7 +166,7 @@ docs:
   - title: Posts
     children:
       - title: "공부"
-        url: /_posts/2023-05-25-github-start.md/
+        url: /Posts/2023-05-25-github-start.md/
       - title: "잡담"
         url: /docs/2023-05-25-github-start.md
       
