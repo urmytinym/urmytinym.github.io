@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "jin"
-  avatar           : "/docs/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/docs/assets/images/bio-photo-bird.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**study for goal**"
   location         : "Korea"
   email            : urmytinym@gmail.com
