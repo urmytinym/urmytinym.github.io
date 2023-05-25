@@ -6,9 +6,9 @@ description: 가장 확실하고 간단한 방법
 tags: github
 categories: study
 related_posts: false
-toc:
-  sidebar: left
-max_width: 800px
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 ## github의 웹호스팅 서비스 이용하기

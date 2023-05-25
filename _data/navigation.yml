@@ -1,12 +1,12 @@
 # example navigation
 foo:
   - title: "Posts"
-    url: "https://urmytinym.github.io/"
+    url: "https://urmytinym.github.io/_posts"
     children:
       - title: "Posts"
         url: "https://urmytinym.github.io/"
-  #     - title: "Child Link 2"
-  #       url: /child-2-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
   # - title: "Parent Link 2"
   #   url: /parent-2-page-url/
   #   children:
@@ -22,7 +22,7 @@ main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
-    url: /_posts
+    url: "/_posts"
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
