@@ -144,9 +144,9 @@ foo:
     url: /_posts/
     children:
       - title: "공부"
-        url: /child-1-page-url/
+        url: /2023-05-25-github-start.md/
       - title: "잡담" 
-        url: /child-2-page-url/
+        url: "2023-05-25-github-start.md"
 
 
 # main links
@@ -166,9 +166,9 @@ docs:
   - title: Posts
     children:
       - title: "공부"
-        url: /docs/quick-start-guide/
+        url: /_posts/2023-05-25-github-start.md/
       - title: "잡담"
-        url: /docs/structure/
+        url: /docs/2023-05-25-github-start.md
       
   # - title: Customization
   #   children:
