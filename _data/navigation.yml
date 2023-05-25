@@ -19,10 +19,10 @@
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Home"
+    url: "https://urmytinym.github.io/"
   - title: "Posts"
-    url: "/_posts"
+    url: "https://urmytinym.github.io/_posts"
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
