@@ -8,6 +8,7 @@ categories: study
 related_posts: false
 toc:
   sidebar: left
+max_width: 800px
 ---
 
 ## github의 웹호스팅 서비스 이용하기
